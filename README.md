@@ -1,9 +1,7 @@
 # Implicit Unlikelihood Training: Improving Neural Text Generation with Reinforcement Learning
 
 This repository contains the code needed for running the experiments from the paper: 
-
-Implicit Unlikelihood Training: Improving Neural Text Generation with Reinforcement Learning
-(under review at COLING)
+Evgeny Lagutin, Daniil Gavrilov and Pavel Kalaidin, Implicit Unlikelihood Training: Improving Neural Text Generation with Reinforcement Learning (accepted to EACL 2021)
 
 
 | Table of Contents                     |
