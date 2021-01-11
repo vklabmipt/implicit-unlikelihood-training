@@ -1,0 +1,14 @@
+cython
+ujson
+black
+jupyter
+transformers
+tensorflow
+nltk
+jupyterlab
+tqdm
+matplotlib
+seaborn
+pandas
+tensorboardX
+entmax
